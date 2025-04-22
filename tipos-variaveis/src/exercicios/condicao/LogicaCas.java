@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.condicao;
 public class LogicaCas {
     public static void main(String[] args) {
         short posicaoDoAtleta = 1;

@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.condicao;
 import java.util.Scanner;
 public class LogicaSe {
     public static void main(String[] args) {
